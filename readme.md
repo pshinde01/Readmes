@@ -1,7 +1,7 @@
 <div align="start">
   <br />
     <a href="#" target="_blank">
-      <img src="https://github.com/pshinde01/Readmes/blob/main/Screenshot%20(34).png" width="600" height="500" alt="Project Banner">
+      <img src="https://github.com/pshinde01/Readmes/blob/main/Screenshot%20(34).png" width="600" height="400" alt="Project Banner">
     </a>
   <br />
   
