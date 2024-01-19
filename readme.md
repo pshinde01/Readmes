@@ -5,7 +5,7 @@
     </a>
   <br />
   
-  <h3 align="center">A Full Stack Event Organizing Application</h3>
+  <h2 align="center">A Full Stack Event Organizing Application</h2>
 
    <div align="center">
      Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
