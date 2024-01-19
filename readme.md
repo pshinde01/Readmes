@@ -3,6 +3,9 @@
     <a href="#" target="_blank">
       <img src="https://github.com/pshinde01/Readmes/blob/main/Screenshot%20(34).png" width="600" height="400" alt="Project Banner">
     </a>
+    <a href="#" target="_blank">
+      <img src="https://github.com/pshinde01/Readmes/blob/main/project-6_img2.png" width="600" height="400" alt="Project Banner">
+    </a>
   <br />
   
   <h1 align="center">A Full Stack Event Organizing Application</h1>
